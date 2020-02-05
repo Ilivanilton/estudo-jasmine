@@ -1,7 +1,7 @@
 ---
 name: Reportar Bug
 about: Create a report to help us improve
-title: "[project_name] BUG: module_name"
+title: "[project_name] BUG: [module_name]"
 labels: ''
 assignees: ''
 
