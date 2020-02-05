@@ -7,4 +7,10 @@ assignees: ''
 
 ---
 
+## Descrição
 
+## Comportamento esperado
+
+## Comportamento atual
+
+## Contexto
