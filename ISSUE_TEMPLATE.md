@@ -1,38 +1,15 @@
----
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
-assignees: octocat, octo-org/octo-team
----
-<!--- Provide a general summary of the issue in the Title above -->
+## Descrição
 
-## Description
-<!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug -->
+## Comportamento esperado
 
-## Expected Behavior
-<!--- Tell us what should happen -->
+## Comportamento atual
 
-## Actual Behavior
-<!--- Tell us what happens instead -->
+## Possível solução
 
-## Possible Fix
-<!--- Not obligatory, but suggest a fix or reason for the bug -->
-
-## Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
+## Passos-a-passo para reproduzir o bug
 1.
 2.
 3.
 4.
 
-## Context
-<!--- How has this bug affected you? What were you trying to accomplish? -->
-
-## Your Environment
-<!--- Include as many relevant details about the environment you experienced the bug in -->
-* Version used:
-* Browser Name and version:
-* Operating System and version (desktop or mobile):
-* Link to your project:
+## Contexto
