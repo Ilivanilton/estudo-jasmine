@@ -1,3 +1,10 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat, octo-org/octo-team
+---
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Description
