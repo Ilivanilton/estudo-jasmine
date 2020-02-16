@@ -1,10 +1,12 @@
 ---
 name: 3) Nova Funcionalidade
-about: Criar Issue com a finalidade de criação
+about: Request the new feature
 title: "[project_name] FEATURE: module_name"
 labels: ''
 assignees: ''
 
 ---
 
-## Descrição detalhada
+**Problema**
+
+**Proposta**
